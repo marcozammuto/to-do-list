@@ -245,7 +245,7 @@ const ToDoList = () => {
                   color: bootstrapBlue,
                 }}
               >
-                {task.comment ? task.comment : null}
+                {task.comment || null}
               </p>
             </div>
 
