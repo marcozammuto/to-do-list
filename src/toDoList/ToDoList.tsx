@@ -1,5 +1,6 @@
 import { useState, useEffect, SetStateAction, useRef } from "react";
 import "./toDoList.css";
+// new imports
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faPlus,
