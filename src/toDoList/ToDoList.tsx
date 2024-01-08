@@ -6,6 +6,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faPlus,
   faArrowsRotate,
+
+  // these are all fontawesome icons
   faSpinner,
   faPenToSquare,
   faComment,
